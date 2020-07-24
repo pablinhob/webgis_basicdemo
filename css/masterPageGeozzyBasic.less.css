@@ -1,1 +1,445 @@
-.bodyContent .gzzSec.secBckGeozzyBasic{padding:0px;width:100%;height:60vh;color:#fff}.bodyContent .gzzSec.secBckGeozzyBasic .intro{position:absolute;width:100%;max-width:900px;top:50%;left:50%;-ms-transform:translate(-50%, -50%);-webkit-transform:translate(-50%, -50%);transform:translate(-50%, -50%)}.bodyContent .gzzSec.secBckGeozzyBasic .intro .content{padding:10px}.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .title{font-size:72px;text-align:center;color:#fff;margin:0 auto;font-weight:normal}@media only screen and (min-width: 768px) and (max-width: 991px){.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .title{font-size:52px}}@media only screen and (max-width: 575px),only screen and (min-width: 576px) and (max-width: 767px){.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .title{font-size:36px}}.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .subtitle{text-transform:uppercase;font-size:70px;text-align:center}@media only screen and (min-width: 768px) and (max-width: 991px){.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .subtitle{font-size:22px}}@media only screen and (max-width: 575px),only screen and (min-width: 576px) and (max-width: 767px){.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .subtitle{font-size:16px}}.bodyContent .gzzSec.secBckGeozzyBasic .trama{background:#5ab780;position:absolute;top:0px;left:0px;width:100%;height:100%}.bodyContent .gzzSec.secGeozzyBasic{padding-bottom:0px}.bodyContent .gzzSec.secGeozzyBasicSub video{width:100%;height:auto}.bodyContent .gzzSec.secGeozzyBasicSub .box-shadow{box-shadow:0px 10px 40px 0px rgba(0,0,0,0.35)}.bodyContent .gzzSec.secGeozzyBasicSub .video{margin:60px auto 0;height:auto}@media only screen and (min-width: 1200px),only screen and (min-width: 992px) and (max-width: 1199px),only screen and (min-width: 768px) and (max-width: 991px){.bodyContent .gzzSec.secGeozzyBasicSub .video{width:80%}}.bodyContent .gzzSec.secGeozzyBasicSub .mobileVideo{margin:60px auto 0;width:20%;height:auto}.bodyContent .gzzSec.secGeozzyBasicSub ul{list-style:none;padding:0 20px;margin:0}.bodyContent .gzzSec.secGeozzyBasicSub li:before{color:#5ab780;content:"\f111";font-family:FontAwesome;font-size:9px;padding-right:10px;float:left}.bodyContent .gzzSec.secGeozzyBasicSub li .title{font-weight:600;padding-right:10px}.bodyContent .gzzSec.secGeozzyBasicSub li p{margin-top:0px;margin-left:18px}.bodyContent .gzzSec.secGeozzyBasicSub img{width:100%}.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li a{outline:none;border:2px solid transparent;border-bottom:2px solid #363636;text-transform:uppercase;color:#555;font-size:20px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}@media only screen and (min-width: 768px) and (max-width: 991px){.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li a{font-size:20px}}@media only screen and (min-width: 576px) and (max-width: 767px),only screen and (max-width: 575px){.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li a{font-size:20px}}.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li a .iconSelectedFunctional{visibility:hidden;color:#5ab780}.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li:hover a{background:none}.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li:hover a .iconSelectedFunctional{visibility:visible;color:#555}.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li.active a{border:2px solid #fff;border-top:2px solid #363636;color:#5ab780}.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li.active a .iconSelectedFunctional{visibility:visible;color:#5ab780}.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li.active:hover a{background:#fff}.bodyContent .gzzSec.secFunctionalModules .tab-content{padding:40px 60px;background-color:#fff;border-bottom:2px solid #363636}.bodyContent .gzzSec.secFunctionalModules .tab-content a.accordion-link{display:none;font-size:20px}@media only screen and (min-width: 768px) and (max-width: 991px){.bodyContent .gzzSec.secFunctionalModules .tab-content a.accordion-link{font-size:20px}}@media only screen and (min-width: 576px) and (max-width: 767px),only screen and (max-width: 575px){.bodyContent .gzzSec.secFunctionalModules .tab-content a.accordion-link{font-size:20px}}.bodyContent .gzzSec.secFunctionalModules .tab-content .module{padding:10px 30px}.bodyContent .gzzSec.secFunctionalModules .tab-content .module .title{font-size:20px}@media only screen and (min-width: 768px) and (max-width: 991px){.bodyContent .gzzSec.secFunctionalModules .tab-content .module .title{font-size:20px}}@media only screen and (min-width: 576px) and (max-width: 767px),only screen and (max-width: 575px){.bodyContent .gzzSec.secFunctionalModules .tab-content .module .title{font-size:20px}}.bodyContent .gzzSec.secFunctionalModules .tab-content .module .desc{font-size:13px}@media only screen and (min-width: 768px) and (max-width: 991px){.bodyContent .gzzSec.secFunctionalModules .tab-content .module .desc{font-size:13px}}@media only screen and (min-width: 576px) and (max-width: 767px),only screen and (max-width: 575px){.bodyContent .gzzSec.secFunctionalModules .tab-content .module .desc{font-size:13px}}.bodyContent .gzzSec.secDoesGeozzyBasicWork{font-size:20px}@media only screen and (min-width: 768px) and (max-width: 991px){.bodyContent .gzzSec.secDoesGeozzyBasicWork{font-size:20px}}@media only screen and (min-width: 576px) and (max-width: 767px),only screen and (max-width: 575px){.bodyContent .gzzSec.secDoesGeozzyBasicWork{font-size:20px}}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork{margin-top:40px;border:none}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li{width:25%;text-align:center}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li a{padding:5px;outline:none}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li a img{display:inline}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li a img.active{display:none}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li a .title{margin-top:20px;font-size:20px;font-weight:600;color:#B5BDBB;text-transform:uppercase}@media only screen and (min-width: 768px) and (max-width: 991px){.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li a .title{font-size:20px}}@media only screen and (min-width: 576px) and (max-width: 767px),only screen and (max-width: 575px){.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li a .title{font-size:20px}}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li .iconShowTextHover,.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li .iconShowText{visibility:hidden;color:#555;position:absolute;left:50%;-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%);-o-transform:translateX(-50%);transform:translateX(-50%)}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li:hover a img,.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li.active a img{display:none}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li:hover a img.active,.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li.active a img.active{display:inline}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li:hover a .title,.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li.active a .title{color:#555}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li:hover .iconShowTextHover{visibility:visible}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li.active .iconShowTextHover{visibility:hidden}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li.active .iconShowText{visibility:visible;color:#5ab780}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li>a,.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li>a:hover,.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li>a:focus{background:none;border:none}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tab-content{margin-top:40px;font-size:20px}@media only screen and (min-width: 768px) and (max-width: 991px){.bodyContent .gzzSec.secDoesGeozzyBasicWork .tab-content{font-size:20px}}@media only screen and (min-width: 576px) and (max-width: 767px),only screen and (max-width: 575px){.bodyContent .gzzSec.secDoesGeozzyBasicWork .tab-content{font-size:20px}}.bodyContent .gzzSec.secDoesGeozzyBasicWork .tab-content .title{margin-bottom:20px;font-size:20px;font-weight:600;color:#555;text-transform:uppercase}@media only screen and (min-width: 768px) and (max-width: 991px){.bodyContent .gzzSec.secDoesGeozzyBasicWork .tab-content .title{font-size:20px}}@media only screen and (min-width: 576px) and (max-width: 767px),only screen and (max-width: 575px){.bodyContent .gzzSec.secDoesGeozzyBasicWork .tab-content .title{font-size:20px}}.bodyContent .gzzSec.secContact .goContact{position:relative;top:auto;left:auto;-webkit-transform:none;-ms-transform:none;transform:none}.bodyContent .gzzSec.secContact .contactUs{text-align:center;padding-top:50px;color:#fff;font-weight:bold}.bodyContent .gzzSec.secContact .contactUs .emailContact{padding-top:10px}.bodyContent .gzzSec.secContact .contactUs .emailContact+.phoneContact{padding-top:5px}@media only screen and (max-width: 991px){.bodyContent .gzzSec.secGeozzyBasicSub .mobileVideo{width:40%}.bodyContent .gzzSec.secBckGeozzyBasic{height:75vh}.bodyContent .gzzSec.secBckGeozzyBasic .intro{top:50%}.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .title{font-size:32px}.bodyContent .gzzSec.secFunctionalModules .tab-content{padding:20px 30px}.bodyContent .gzzSec.secFunctionalModules .tab-content .module{padding:10px}}@media only screen and (max-width: 575px){.bodyContent .gzzSec.secGeozzyBasicSub .mobileVideo{width:50%}}
+.bodyContent .gzzSec.secBckGeozzyBasic {
+	padding: 0px;
+	width: 100%;
+	height: 60vh;
+	color: #fff
+}
+
+.bodyContent .gzzSec.secBckGeozzyBasic .intro {
+	position: absolute;
+	width: 100%;
+	max-width: 900px;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%)
+}
+
+.bodyContent .gzzSec.secBckGeozzyBasic .intro .content {
+	padding: 10px
+}
+
+.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .title {
+	font-size: 72px;
+	text-align: center;
+	color: #fff;
+	margin: 0 auto;
+	font-weight: normal
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .title {
+		font-size: 52px
+	}
+}
+
+@media only screen and (max-width: 575px),
+only screen and (min-width: 576px) and (max-width: 767px) {
+	.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .title {
+		font-size: 36px
+	}
+}
+
+.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .subtitle {
+	text-transform: uppercase;
+	font-size: 70px;
+	text-align: center
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .subtitle {
+		font-size: 22px
+	}
+}
+
+@media only screen and (max-width: 575px),
+only screen and (min-width: 576px) and (max-width: 767px) {
+	.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .subtitle {
+		font-size: 16px
+	}
+}
+
+.bodyContent .gzzSec.secBckGeozzyBasic .trama {
+	background: #5ab780;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%
+}
+
+.bodyContent .gzzSec.secGeozzyBasic {
+	padding-bottom: 0px
+}
+
+.bodyContent .gzzSec.secGeozzyBasicSub video {
+	width: 100%;
+	height: auto
+}
+
+.bodyContent .gzzSec.secGeozzyBasicSub .box-shadow {
+	box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.35)
+}
+
+.bodyContent .gzzSec.secGeozzyBasicSub .video {
+	margin: 60px auto 0;
+	height: auto
+}
+
+@media only screen and (min-width: 1200px),
+only screen and (min-width: 992px) and (max-width: 1199px),
+only screen and (min-width: 768px) and (max-width: 991px) {
+	.bodyContent .gzzSec.secGeozzyBasicSub .video {
+		width: 80%
+	}
+}
+
+.bodyContent .gzzSec.secGeozzyBasicSub .mobileVideo {
+	margin: 60px auto 0;
+	width: 20%;
+	height: auto
+}
+
+.bodyContent .gzzSec.secGeozzyBasicSub ul {
+	list-style: none;
+	padding: 0 20px;
+	margin: 0
+}
+
+.bodyContent .gzzSec.secGeozzyBasicSub li:before {
+	color: #5ab780;
+	content: "\f111";
+	font-family: FontAwesome;
+	font-size: 9px;
+	padding-right: 10px;
+	float: left
+}
+
+.bodyContent .gzzSec.secGeozzyBasicSub li .title {
+	font-weight: 600;
+	padding-right: 10px
+}
+
+.bodyContent .gzzSec.secGeozzyBasicSub li p {
+	margin-top: 0px;
+	margin-left: 18px
+}
+
+.bodyContent .gzzSec.secGeozzyBasicSub img {
+	width: 100%
+}
+
+.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li a {
+	outline: none;
+	border: 2px solid transparent;
+	border-bottom: 2px solid #363636;
+	text-transform: uppercase;
+	color: #555;
+	font-size: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li a {
+		font-size: 20px
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px),
+only screen and (max-width: 575px) {
+	.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li a {
+		font-size: 20px
+	}
+}
+
+.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li a .iconSelectedFunctional {
+	visibility: hidden;
+	color: #5ab780
+}
+
+.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li:hover a {
+	background: none
+}
+
+.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li:hover a .iconSelectedFunctional {
+	visibility: visible;
+	color: #555
+}
+
+.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li.active a {
+	border: 2px solid #fff;
+	border-top: 2px solid #363636;
+	color: #5ab780
+}
+
+.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li.active a .iconSelectedFunctional {
+	visibility: visible;
+	color: #5ab780
+}
+
+.bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li.active:hover a {
+	background: #fff
+}
+
+.bodyContent .gzzSec.secFunctionalModules .tab-content {
+	padding: 40px 60px;
+	background-color: #fff;
+	border-bottom: 2px solid #363636
+}
+
+.bodyContent .gzzSec.secFunctionalModules .tab-content a.accordion-link {
+	display: none;
+	font-size: 20px
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.bodyContent .gzzSec.secFunctionalModules .tab-content a.accordion-link {
+		font-size: 20px
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px),
+only screen and (max-width: 575px) {
+	.bodyContent .gzzSec.secFunctionalModules .tab-content a.accordion-link {
+		font-size: 20px
+	}
+}
+
+.bodyContent .gzzSec.secFunctionalModules .tab-content .module {
+	padding: 10px 30px
+}
+
+.bodyContent .gzzSec.secFunctionalModules .tab-content .module .title {
+	font-size: 20px
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.bodyContent .gzzSec.secFunctionalModules .tab-content .module .title {
+		font-size: 20px
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px),
+only screen and (max-width: 575px) {
+	.bodyContent .gzzSec.secFunctionalModules .tab-content .module .title {
+		font-size: 20px
+	}
+}
+
+.bodyContent .gzzSec.secFunctionalModules .tab-content .module .desc {
+	font-size: 13px
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.bodyContent .gzzSec.secFunctionalModules .tab-content .module .desc {
+		font-size: 13px
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px),
+only screen and (max-width: 575px) {
+	.bodyContent .gzzSec.secFunctionalModules .tab-content .module .desc {
+		font-size: 13px
+	}
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork {
+	font-size: 20px
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.bodyContent .gzzSec.secDoesGeozzyBasicWork {
+		font-size: 20px
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px),
+only screen and (max-width: 575px) {
+	.bodyContent .gzzSec.secDoesGeozzyBasicWork {
+		font-size: 20px
+	}
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork {
+	margin-top: 40px;
+	border: none
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li {
+	width: 25%;
+	text-align: center
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li a {
+	padding: 5px;
+	outline: none
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li a img {
+	display: inline
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li a img.active {
+	display: none
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li a .title {
+	margin-top: 20px;
+	font-size: 20px;
+	font-weight: 600;
+	color: #B5BDBB;
+	text-transform: uppercase
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li a .title {
+		font-size: 20px
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px),
+only screen and (max-width: 575px) {
+	.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li a .title {
+		font-size: 20px
+	}
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li .iconShowTextHover,
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li .iconShowText {
+	visibility: hidden;
+	color: #555;
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	transform: translateX(-50%)
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li:hover a img,
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li.active a img {
+	display: none
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li:hover a img.active,
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li.active a img.active {
+	display: inline
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li:hover a .title,
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li.active a .title {
+	color: #555
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li:hover .iconShowTextHover {
+	visibility: visible
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li.active .iconShowTextHover {
+	visibility: hidden
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li.active .iconShowText {
+	visibility: visible;
+	color: #5ab780
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li>a,
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li>a:hover,
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li>a:focus {
+	background: none;
+	border: none
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tab-content {
+	margin-top: 40px;
+	font-size: 20px
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.bodyContent .gzzSec.secDoesGeozzyBasicWork .tab-content {
+		font-size: 20px
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px),
+only screen and (max-width: 575px) {
+	.bodyContent .gzzSec.secDoesGeozzyBasicWork .tab-content {
+		font-size: 20px
+	}
+}
+
+.bodyContent .gzzSec.secDoesGeozzyBasicWork .tab-content .title {
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-weight: 600;
+	color: #555;
+	text-transform: uppercase
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.bodyContent .gzzSec.secDoesGeozzyBasicWork .tab-content .title {
+		font-size: 20px
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px),
+only screen and (max-width: 575px) {
+	.bodyContent .gzzSec.secDoesGeozzyBasicWork .tab-content .title {
+		font-size: 20px
+	}
+}
+
+.bodyContent .gzzSec.secContact .goContact {
+	position: relative;
+	top: auto;
+	left: auto;
+	-webkit-transform: none;
+	-ms-transform: none;
+	transform: none
+}
+
+.bodyContent .gzzSec.secContact .contactUs {
+	text-align: center;
+	padding-top: 50px;
+	color: #fff;
+	font-weight: bold
+}
+
+.bodyContent .gzzSec.secContact .contactUs .emailContact {
+	padding-top: 10px
+}
+
+.bodyContent .gzzSec.secContact .contactUs .emailContact+.phoneContact {
+	padding-top: 5px
+}
+
+@media only screen and (max-width: 991px) {
+	.bodyContent .gzzSec.secGeozzyBasicSub .mobileVideo {
+		width: 40%
+	}
+	.bodyContent .gzzSec.secBckGeozzyBasic {
+		height: 75vh
+	}
+	.bodyContent .gzzSec.secBckGeozzyBasic .intro {
+		top: 50%
+	}
+	.bodyContent .gzzSec.secBckGeozzyBasic .intro .content .title {
+		font-size: 32px
+	}
+	.bodyContent .gzzSec.secFunctionalModules .tab-content {
+		padding: 20px 30px
+	}
+	.bodyContent .gzzSec.secFunctionalModules .tab-content .module {
+		padding: 10px
+	}
+}
+
+@media only screen and (max-width: 575px) {
+	.bodyContent .gzzSec.secGeozzyBasicSub .mobileVideo {
+		width: 50%
+	}
+}
