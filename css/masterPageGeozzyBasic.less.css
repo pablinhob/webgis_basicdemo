@@ -21,7 +21,7 @@
 }
 
 .bodyContent .gzzSec.secBckGeozzyBasic .intro .content .title {
-	font-size: 72px;
+	font-size: 50px;
 	text-align: center;
 	color: #fff;
 	margin: 0 auto;
@@ -43,7 +43,7 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 
 .bodyContent .gzzSec.secBckGeozzyBasic .intro .content .subtitle {
 	text-transform: uppercase;
-	font-size: 72px;
+	font-size: 82px;
 	text-align: center;
 	font-weight: bold	
 }
@@ -119,7 +119,8 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 
 .bodyContent .gzzSec.secGeozzyBasicSub li .title {
 	font-weight: 600;
-	padding-right: 10px
+	padding-right: 10px;
+	font-size: 50px;
 }
 
 .bodyContent .gzzSec.secGeozzyBasicSub li p {
