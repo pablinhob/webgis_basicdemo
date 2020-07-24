@@ -62,7 +62,8 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 }
 
 .bodyContent .gzzSec.secBckGeozzyBasic .trama {
-	background: #466269;
+	/* background: #466269; */
+	background-image: url("data/bck-features.jpg");
 	position: absolute;
 	top: 0px;
 	left: 0px;
@@ -116,12 +117,13 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 	padding-right: 10px;
 	float: left;
 	position: absolute;
-	margin-top: -5px;
+	margin-top: 10px;
 }
 
 .bodyContent .gzzSec.secGeozzyBasicSub li .title {
 	font-weight: 600;
 	padding-right: 10px;
+	padding-left: 24px;
 	font-size: 36px;
 }
 
