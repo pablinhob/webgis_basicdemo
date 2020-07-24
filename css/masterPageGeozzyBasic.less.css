@@ -62,7 +62,7 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 }
 
 .bodyContent .gzzSec.secBckGeozzyBasic .trama {
-	background: #5ab780;
+	background: #466269;
 	position: absolute;
 	top: 0px;
 	left: 0px;
@@ -109,7 +109,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 }
 
 .bodyContent .gzzSec.secGeozzyBasicSub li:before {
-	color: #5ab780;
+	color: #466269;
 	content: "\f111";
 	font-family: FontAwesome;
 	font-size: 32px;
@@ -158,7 +158,7 @@ only screen and (max-width: 575px) {
 
 .bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li a .iconSelectedFunctional {
 	visibility: hidden;
-	color: #5ab780
+	color: #466269
 }
 
 .bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li:hover a {
@@ -173,12 +173,12 @@ only screen and (max-width: 575px) {
 .bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li.active a {
 	border: 2px solid #fff;
 	border-top: 2px solid #363636;
-	color: #5ab780
+	color: #466269
 }
 
 .bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li.active a .iconSelectedFunctional {
 	visibility: visible;
-	color: #5ab780
+	color: #466269
 }
 
 .bodyContent .gzzSec.secFunctionalModules .tabsFuntionalMods li.active:hover a {
@@ -345,7 +345,7 @@ only screen and (max-width: 575px) {
 
 .bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li.active .iconShowText {
 	visibility: visible;
-	color: #5ab780
+	color: #466269
 }
 
 .bodyContent .gzzSec.secDoesGeozzyBasicWork .tabsDoesGeozzyBasicWork>li>a,
